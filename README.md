@@ -2,7 +2,7 @@
 
 Junior Software Developer focused on Full Stack JavaScript development.
 
-I enjoy building web applications, learning modern technologies, and improving my problem-solving skills. My goal is to grow as a professional software engineer by building real projects and continuously learning.
+I enjoy building web applications, learning modern technologies, and improving my problem-solving skills. My goal is to grow as a professional software engineer by building practical projects and continuously learning new tools and development practices.
 
 ---
 
@@ -38,6 +38,23 @@ Tools
 - Designing REST APIs with Node.js
 - Improving problem solving skills
 - Learning scalable backend architecture
+
+---
+
+## Goals
+
+- Become a strong full stack software developer
+- Build production-ready applications
+- Contribute to real world projects
+- Continuously improve programming and system design skills
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osmanmouhamad&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanmouhamad&layout=compact)
 
 ---
 
