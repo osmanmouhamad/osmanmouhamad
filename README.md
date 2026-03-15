@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Osman Mouhamad 👋
 
-<!--
-**osmanmouhamad/osmanmouhamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer focused on Full Stack JavaScript development.
 
-Here are some ideas to get you started:
+I enjoy building web applications, learning modern technologies, and improving my problem-solving skills. My goal is to grow as a professional software engineer by building real projects and continuously learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+Frontend
+- JavaScript
+- React
+- HTML
+- CSS
+
+Backend
+- Node.js
+- Express.js
+
+Databases
+- MongoDB
+- PostgreSQL
+
+DevOps
+- Docker
+- Kubernetes
+
+Tools
+- Git
+- GitHub
+
+---
+
+## What I'm Working On
+
+- Building full stack web applications
+- Designing REST APIs with Node.js
+- Improving problem solving skills
+- Learning scalable backend architecture
+
+---
+
+## Contact
+
+Email: osmanmouahmad48@gmail.com  
+Location: Akkar, Lebanon
