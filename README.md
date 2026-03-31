@@ -52,5 +52,5 @@ Tools
 
 ## Contact
 
-Email: osmanmouahmad48@gmail.com  
+Email: osmanmouahmad7@gmail.com  
 Location: Akkar, Lebanon
